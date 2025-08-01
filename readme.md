@@ -34,7 +34,6 @@ With a strong understanding of **UI/UX principles**, **state management**, and *
 ---
 
 
-
 ## 🌟 Projects I'm Proud Of
 
 - 🌤️ **[Live Weather Check App](https://github.com/NoorMustafa4556/Live-Weather-Check-App)** – Real-time weather forecast using OpenWeatherMap API  
@@ -43,7 +42,7 @@ With a strong understanding of **UI/UX principles**, **state management**, and *
 - 🍔 **[Recipe App](https://github.com/NoorMustafa4556/Recipe-App)** – Discover recipes with images, categories, and step-by-step instructions  
 
 - 📚 **[Palindrome Checker](https://github.com/NoorMustafa4556/Palindrome-Checker-App)** – A Theory of Automata-based project to identify palindromic strings  
-- 📚 **Django Library Management System]([https://github.com/NoorMustafa4556/Recipe-App](https://github.com/NoorMustafa4556/Library-Management-System-Django-))** Djano Library Management Project 
+- 📚 **Django Library Management System] (https://github.com/NoorMustafa4556/Library-Management-System-Django-)** Djano Library Management Project 
 -🌟 **[AI Chatbot (Gemini)](https://github.com/NoorMustafa4556/Ai-ChatBot)** – Conversational AI chatbot powered by Google’s Gemini 
 > 🎯 Check out all my repositories on [github.com/NoorMustafa4556](https://github.com/NoorMustafa4556?tab=repositories)
 
