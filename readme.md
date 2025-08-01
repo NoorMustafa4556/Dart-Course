@@ -14,17 +14,98 @@ Get ready to dive into the world of Dart and unlock its full potential! Start yo
 
 ## About Instructor
 
-Hello! I'm Noor Mustafa, and I'm thrilled to be your instructor for this course. With over 3 years of experience in Flutter mobile app development, I've had the opportunity to work on a wide range of exciting projects and enhance my skills in building robust and user-friendly applications.
+# 👋 Hi, I'm Noor Mustafa
 
-Throughout my career, I've collaborated with talented cross-functional teams to create innovative mobile solutions using the Flutter framework. I've gained a deep understanding of the intricacies of Dart programming language and its seamless integration with Flutter.
+A passionate and results-driven **Flutter Developer** from **Bahawalpur, Pakistan**, specializing in building elegant, scalable, and high-performance cross-platform mobile applications using **Flutter** and **Dart**.
 
-My passion for teaching and sharing knowledge has led me to create this repository, where you'll find a collection of code examples, exercises, and projects to help you grasp the fundamentals of Dart and excel in Flutter development. I believe in a hands-on approach to learning, and I'll provide you with practical examples and best practices to ensure you have a solid foundation in these technologies.
+With a strong understanding of **UI/UX principles**, **state management**, and **API integration**, I aim to deliver apps that are not only functional but also user-centric and visually compelling. My development approach emphasizes clean code, reusability, and performance.
 
-I invite you to connect with me on social media, where I regularly share resources, tips, and insights related to Dart and Flutter development.
+---
 
-Feel free to reach out to me on Facebook at [Noor Mustafa](https://www.facebook.com/noormustafa4556) or connect with me on LinkedIn at [Noor Mustafa](https://www.linkedin.com/in/noormustafa4556/). You can also explore my GitHub profile at [noormustafa4556](https://github.com/noormustafa4556) to see some of my projects and contributions.
+## 🚀 What I Do
 
-Join me on this exciting journey of learning Dart and Flutter. Together, we'll unlock your potential and empower you to create amazing mobile applications. Happy coding!
+- 🧑‍💻 **Flutter App Development** – I build cross-platform apps for Android, iOS, and the web using Flutter.
+- 🔗 **API Integration** – I connect apps to powerful RESTful APIs and third-party services.
+- 🎨 **UI/UX Design** – I craft responsive and animated interfaces that elevate the user experience.
+- 🔐 **Authentication & Firebase** – I implement secure login systems and integrate Firebase services.
+- ⚙️ **State Management** – I use Provider, setState, and Riverpod (in-progress) for scalable app architecture.
+- 🧠 **Clean Architecture** – I follow MVVM and MVC patterns for maintainable code.
+
+---
+
+
+
+## 🌟 Projects I'm Proud Of
+
+- 🌤️ **[Live Weather Check App](https://github.com/NoorMustafa4556/Live-Weather-Check-App)** – Real-time weather forecast using OpenWeatherMap API  
+- 🤖 **[AI Chatbot (Gemini)](https://github.com/NoorMustafa4556/Ai-ChatBot)** – Conversational AI chatbot powered by Google’s Gemini  
+
+- 🍔 **[Recipe App](https://github.com/NoorMustafa4556/Recipe-App)** – Discover recipes with images, categories, and step-by-step instructions  
+
+- 📚 **[Palindrome Checker](https://github.com/NoorMustafa4556/Palindrome-Checker-App)** – A Theory of Automata-based project to identify palindromic strings  
+- 📚 **Django Library Management System]([https://github.com/NoorMustafa4556/Recipe-App](https://github.com/NoorMustafa4556/Library-Management-System-Django-))** Djano Library Management Project 
+-🌟 **[AI Chatbot (Gemini)](https://github.com/NoorMustafa4556/Ai-ChatBot)** – Conversational AI chatbot powered by Google’s Gemini 
+> 🎯 Check out all my repositories on [github.com/NoorMustafa4556](https://github.com/NoorMustafa4556?tab=repositories)
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+| Area                | Tools/Technologies |
+|---------------------|--------------------|
+| **Languages**       | Dart, JavaScript, Python (basic) |
+| **Mobile Framework**| Flutter            |
+| **Backend/Cloud**   | Firebase (Auth, Realtime DB, Storage), Django, Flask |
+| **Frontend (Web)**  | React.js (basic), HTML, CSS, Bootstrap |
+| **State Management**| Provider, setState, Riverpod (learning) |
+| **API & Storage**   | REST APIs, HTTP, Shared Preferences, SQLite |
+| **Design**          | Material, Cupertino, Lottie Animations, Gradient UI |
+| **Version Control** | Git, GitHub        |
+| **Tools**           | Android Studio, VS Code, Postman, Figma (basic) |
+
+---
+
+## 🧰 Tech Toolbox
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+---
+
+## 📈 Current Focus
+
+- 💡 Enhancing Flutter animations and transitions
+- 🤖 Implementing AI-based logic with Google Gemini API
+- 📲 Building portfolio-level applications using full-stack Django & Flutter
+
+---
+
+## 📫 Let's Connect!
+
+- 🔗 **GitHub:** [github.com/NoorMustafa4556](https://github.com/NoorMustafa4556)
+- 💼 **LinkedIn:** [linkedin.com/in/noormustafa4556](https://linkedin.com/in/noormustafa4556)
+- ✉️ **Email:** [noormustafa4556@gmail.com](mailto:noormustafa4556@gmail.com)
+- 📍 **Location:** Bahawalpur, Punjab, Pakistan
+
+---
+
+> _“Learning never stops. Every app I build makes me a better developer — one widget at a time.”_
+
+---
+
+![Noor Mustafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=NoorMustafa4556&show_icons=true&theme=tokyonight)
+
+---
+
+
 
 ---
 
