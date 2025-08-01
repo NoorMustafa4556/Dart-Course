@@ -88,9 +88,27 @@ With a strong understanding of **UI/UX principles**, **state management**, and *
 
 ## 📫 Let's Connect!
 
-- 🔗 **GitHub:** [github.com/NoorMustafa4556](https://github.com/NoorMustafa4556)
-- 💼 **LinkedIn:** [linkedin.com/in/noormustafa4556](https://linkedin.com/in/noormustafa4556)
-- ✉️ **Email:** [noormustafa4556@gmail.com](mailto:noormustafa4556@gmail.com)
+<p align="left">
+  <a href="https://x.com/NoorMustafa4556" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X / Twitter" height="30" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/noormustafa4556/" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://www.facebook.com/NoorMustafa4556" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/noormustafa4556" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+  <a href="https://wa.me/923087655076" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" />
+  </a>
+  <a href="https://www.tiktok.com/@noormustafa4556" target="blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/3046/3046122.png" alt="TikTok" height="30" width="30" />
+  </a>
+</p>
+
 - 📍 **Location:** Bahawalpur, Punjab, Pakistan
 
 ---
