@@ -14,7 +14,7 @@ Get ready to dive into the world of Dart and unlock its full potential! Start yo
 
 ## About Instructor
 
-# 👋 Hi, I'm Noor Mustafa
+# 👋🏻 Hi, I'm Noor Mustafa
 
 A passionate and results-driven **Flutter Developer** from **Bahawalpur, Pakistan**, specializing in building elegant, scalable, and high-performance cross-platform mobile applications using **Flutter** and **Dart**.
 
@@ -24,7 +24,7 @@ With a strong understanding of **UI/UX principles**, **state management**, and *
 
 ## 🚀 What I Do
 
-- 🧑‍💻 **Flutter App Development** – I build cross-platform apps for Android, iOS, and the web using Flutter.
+- 🧑🏻‍💻 **Flutter App Development** – I build cross-platform apps for Android, iOS, and the web using Flutter.
 - 🔗 **API Integration** – I connect apps to powerful RESTful APIs and third-party services.
 - 🎨 **UI/UX Design** – I craft responsive and animated interfaces that elevate the user experience.
 - 🔐 **Authentication & Firebase** – I implement secure login systems and integrate Firebase services.
